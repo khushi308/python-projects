@@ -1,6 +1,6 @@
-# python-projects
-# Internship projects given by Codsoft
-# Python Project 1 (ROCK PAPER SCISSOR GAME)
+#python-projects
+#Internship given by Codsoft
+#Python Project 1 (ROCK PAPER SCISSOR GAME)
 import random
 '''
 1 for Rock
